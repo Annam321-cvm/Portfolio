@@ -1,0 +1,5 @@
+git clone https://github.com/Annam321-cvm/Portfolio.git
+cd Portfolio
+git add .
+git commit -m "Initial portfolio setup"
+git push origin main
